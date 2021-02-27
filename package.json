@@ -1,0 +1,12 @@
+{
+  "name": "doodling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lincoln Swaine-Moore",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
